@@ -16,15 +16,15 @@
 nav{
 	display: flex;
 	align-items: center;
-	padding: 20px 0%;
-	height: 50px;
-	line-height: 40px;
+	padding: 5px 0%;
+	height: 40px;
+	line-height: 20px;
 	/*vertical-align: middle;*/
 }
 
 nav .img-menu{
 	width: 20px;
-	margin-right: 5px;
+	margin-right: 10px;
 	cursor: pointer;
 }
 
